@@ -41,6 +41,11 @@ The final design features a stylish and fuctional navigation bar, with two clear
 
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/weather_gauges_redesign.png)
 
+As well pages showing monthly, yearly, and other various records:
+
+![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/monthly_redesign.png)
+
+
 
 ### Phase 2 of Development (tba)
 
