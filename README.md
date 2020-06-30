@@ -20,7 +20,7 @@ My initial steps were to use a front-end framework to give me the styling and mo
 The original design of the website:
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/screengrab_1_main_page.PNG)
 My first draft of the redesign:
-![]()
+![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/draft_1.PNG)
 
 ### Phase 2 of Development (tba)
 
