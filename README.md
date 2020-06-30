@@ -26,14 +26,17 @@ Frst draft of the redesign:
 Using comical placeholder data, I focused on the layout and visual styling for the redesign.  I chose temperature to be the largest and most important piece of data on the home page, with a "Feels Like" temperature right below it.  The data to the right of the temperature section would have more detailed data for the current day in a table format.  This table is very similar to the previous design's, but adapted for the new visuals.  
 
 Second draft:
+
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/draft_3.PNG)
 
 I began to change details about the design, like font size, proper grid alignment, and bolded headers for the table sections.
 
 Final design:
+
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/weather_screenshot_1.png)
 
 The final design features a stylish and fuctional navigation bar, with two clear data sections on the main page.  These design concepts were used on the other pages that present weather data in a gauge format (a JavaScript library reused from the previous website, [drawn with SteelSeries and scripted by Mark Crossley](https://cumuluswiki.org/a/SteelSeries_Gauges)):
+
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/weather_gauges_redesign.png)
 
 
