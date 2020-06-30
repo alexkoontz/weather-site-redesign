@@ -18,9 +18,11 @@ My initial steps were to use a front-end framework to give me the styling and mo
 
 ### Design
 The original design of the website:
+
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/screengrab_1_main_page.PNG)
 
-Frst draft of the redesign:
+First draft of the redesign:
+
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/draft_1.PNG)
 
 Using comical placeholder data, I focused on the layout and visual styling for the redesign.  I chose temperature to be the largest and most important piece of data on the home page, with a "Feels Like" temperature right below it.  The data to the right of the temperature section would have more detailed data for the current day in a table format.  This table is very similar to the previous design's, but adapted for the new visuals.  
