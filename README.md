@@ -6,7 +6,7 @@
 **Project Members:** Myself, Dave McLaughlin (resident Web Developer at Penn State York), and Joe Royer (Assistant Director of IT at Penn State York)
 
 ![](https://github.com/alexkoontz/weather-site-redesign/blob/master/rdme_src/weather_screenshot_1.png)
-[http://weather.york.psu.edu/](Penn State York Weather Site)
+[Penn State York Weather Site](http://weather.york.psu.edu/)
 
 ## Problem Description
 
